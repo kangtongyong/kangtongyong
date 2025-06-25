@@ -1,6 +1,5 @@
 ## Hello
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangtongyong&show_icons=true&icons=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangtongyong&show_icons=true&theme=dark)
 
 <!--
